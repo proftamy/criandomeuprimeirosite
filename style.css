@@ -1,8 +1,10 @@
 body {
-    <img id="barber" src="barber.jpg">
+    
     background: #CCCCCC
 }
-
+#barber {
+    
+}
 p {
     text-align: center;
 }
