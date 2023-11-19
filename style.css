@@ -4,11 +4,12 @@ body
     
     }
     background: #CCCCCC
-
-    h2 {border: #FF0000;
-
-    }
     
+    
+        h2 {border: #FF0000;
+
+        }
+
     p {
         text-align: justify;
     }
